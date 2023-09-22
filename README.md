@@ -1,27 +1,54 @@
 # Library-Management
-### AIM:
+
+## AIM:
 To study the problem statement, SRS document and draw all the UML diagrams of a Library Management System.
-### PROBLEM STATEMENT:
+
+## PROBLEM STATEMENT:
 To create Library Management System software that will meet the needs of the applicant
 and help them to registering and buy the book for the Library, modification in database and
 cancellation for the registered project.
-### OVERALL DESCRIPTION:
+
+## OVERALL DESCRIPTION:
 The Library Management System is an integrated system that has four modules as part of
 it. The four modules are
-#### Registration for Membership:
+
+### Registration for Membership:
 In this module, the user can select the books to register for the library,Modification in the book
 database, cancelling the books.
-#### Book details:
+
+### Book details:
 In this module the user can search for the books by giving bookie in the project and selecting
 the semester for the book.
-Maintaining Book Details:
+
+## Maintaining Book Details:
 In this module the administrator can change the data’s like the semester, address, books can be
 done.
-#### Cancellation for the Book:
+
+### Cancellation for the Book:
 In this module the user can cancel their name which is registered for the Book.
-### SOFTWARE REQUIRMENTS:
+
+## SOFTWARE REQUIRMENTS:
 Star UML
-### UML Diagrams:
+
+## UML Diagrams:
+
+### USE CASE DIAGRAM:
+![p1](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/d25798d9-f475-4755-be9a-168a9ee9476b)
+
+### CLASS DIAGRAM:
+![p2](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/7ddff19e-8d59-442c-8949-657e4ce10532)
+
+### ACTIVITY DIAGRAM:
+![p3](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/68c2b17a-6373-48b9-bf78-691932ffc6fc)
+
+### COMMUNICATION DIGRAM:
+![p4](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/d2bc10c7-e798-4f14-b894-f7362ebe4157)
+
+### SEQUENCE DIAGRAM:
+![p5](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/005be326-0af6-4d6a-b94e-e400084d10e5)
+
+### PACKAGE DIAGRAM:
+![p6](https://github.com/Ishu-Vasanth/Library-Management/assets/94154614/3d996ef7-5f75-41d3-baa8-27ce1968c02a)
 
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
